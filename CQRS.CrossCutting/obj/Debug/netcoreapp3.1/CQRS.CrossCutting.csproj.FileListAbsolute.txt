@@ -1,0 +1,13 @@
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.CrossCutting.csprojAssemblyReference.cache
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.CrossCutting.AssemblyInfoInputs.cache
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.CrossCutting.AssemblyInfo.cs
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Domain.dll
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.CrossCutting.deps.json
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.CrossCutting.dll
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.CrossCutting.pdb
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Infra.dll
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Domain.pdb
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\bin\Debug\netcoreapp3.1\CQRS.Infra.pdb
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.CrossCutting.csproj.CopyComplete
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.CrossCutting.dll
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.CrossCutting\obj\Debug\netcoreapp3.1\CQRS.CrossCutting.pdb

@@ -1,0 +1,11 @@
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.Application\bin\Debug\netcoreapp3.1\CQRS.Application.deps.json
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.Application\bin\Debug\netcoreapp3.1\CQRS.Application.dll
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.Application\bin\Debug\netcoreapp3.1\CQRS.Application.pdb
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.Application\obj\Debug\netcoreapp3.1\CQRS.Application.csprojAssemblyReference.cache
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.Application\obj\Debug\netcoreapp3.1\CQRS.Application.AssemblyInfoInputs.cache
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.Application\obj\Debug\netcoreapp3.1\CQRS.Application.AssemblyInfo.cs
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.Application\obj\Debug\netcoreapp3.1\CQRS.Application.dll
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.Application\obj\Debug\netcoreapp3.1\CQRS.Application.pdb
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.Application\bin\Debug\netcoreapp3.1\CQRS.Domain.dll
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.Application\bin\Debug\netcoreapp3.1\CQRS.Domain.pdb
+D:\Cursos\Impacta\Arquitetura\CQRS\CQRS.Application\obj\Debug\netcoreapp3.1\CQRS.Application.csproj.CopyComplete
